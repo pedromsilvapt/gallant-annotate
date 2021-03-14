@@ -1,0 +1,22 @@
+{
+  "name": "@gallant/annotate",
+  "version": "0.0.1",
+  "description": "Tools for working with annotations in JavaScript/TypeScript classes",
+  "main": "./lib/main.js",
+  "types": "./lib/main.d.ts",
+  "repository": "pedromsilva/gallant-annotate",
+  "keywords": [
+    "annotations",
+    "decorators",
+    "javascript",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro M. Silva <pemiolsi@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "data-collectors": "^1.0.4"
+  }
+}
